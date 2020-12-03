@@ -28,5 +28,6 @@
   ],
   "standard": {
     "parser": "babel-eslint"
-  }
+  },
+  "homepage": "https://github.com/Morgane26/chatbox"
 }
